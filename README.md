@@ -14,5 +14,6 @@
 -   [Promise&Axios](./基础/009.md)
 -   [Vue](./进阶/001.md)
 -   [React](./进阶/002.md)
+-   [Angular](./进阶/005.md)
 -   [JQuery](./进阶/003.md)
 -   [TypeScript](./进阶/004.md)
